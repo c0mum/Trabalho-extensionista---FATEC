@@ -1,0 +1,14 @@
+:root{
+    --cor: silver;
+    --bg: Black;
+    --font: Arial, bold;
+    -o-animation: alternate;
+    --button: grey;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2rem;
+    padding: center;
+
+}
